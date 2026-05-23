@@ -37,6 +37,12 @@ The dataset consists of supermarket transaction records for Discount Mart. It in
 * Built a monthly line chart enhanced with a static average line to clearly distinguish above-average performance months from trailing ones.
 * Implemented a clean horizontal bar chart for categorical data to prevent visual clutter and enable instant performance ranking.
 
+## Dataset
+The dataset utilized for this analysis consists of supermarket transaction records for **Discount Mart**. 
+
+* **Source Data:** The raw and cleaned data files can be found in the [`/data`](./data/) directory of this repository.
+* **Attributes:** It includes row-level details on order dates, product categories (Technology, Office Supplies, Furniture), and financial variables (Sales, Profit).
+
 ## Insights & Recommendations
 
 ### Key Insights
